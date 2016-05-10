@@ -1,0 +1,22 @@
+body {
+	font: 14px Arial;
+}
+
+.faq-outer {
+	padding: 10px;
+}
+
+.question {
+	padding: 10px;
+	cursor: pointer;
+	background: #efefef url(../img/down-arrow.svg) no-repeat 99% 2px;
+}
+
+.answer {
+	display: none;
+	padding: 10px;
+}
+
+.arrow-up {
+	background: #efefef url(../img/up-arrow.svg) no-repeat 99% 2px;
+}
